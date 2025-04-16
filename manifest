@@ -1,0 +1,63 @@
+{
+   "ManifestVersion":3,
+   "Date":"2025-04-16T15:00:00.0000000Z",
+   "News":{
+      "Blogs":[
+      ]
+   },
+   "Administrators":[
+   ],
+   "Heroes":[
+   ],
+   "SentryUrl":"https://6975b41a59924b48bac4fa8a40117a2d:01fd52e3df8c48488e2d90fcf0634f2e@sentry.io/51079",
+   "DatabaseUrl":"https://api.facepunch.com/api/public/database/{action}/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+   "FeedbackUrl":"https://api.facepunch.com/api/public/feedback/add/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+   "ReportUrl":"https://api.facepunch.com/api/public/feedback/report/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+   "LeaderboardUrl":"https://api.facepunch.com/api/public/leaderboard/{action}/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+   "BenchmarkUrl":"https://api.facepunch.com/api/public/benchmark/add/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+   "AccountUrl":"https://api.facepunch.com/api/public/account/{action}/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+   "Servers":{
+      "Official":[
+      ], 
+      "Banned": [
+		]
+   },
+   "Metadata":{
+      "LoadingScreens":[
+         "",
+      ],
+      "BlockedServers":[
+      ],
+      "TrophyPages":[
+      ],
+      "RadioStations":[
+         "Rust Radio,rustradio.facepunch.com",
+         "Chippy Radio,chippyradio.facepunch.com",
+         "Sonis Beats,sonisradio.facepunch.com",
+         "Triple J,http://live-radio01.mediahubaustralia.com/2TJW/mp3/",
+         "BBC Radio One,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
+         "BBC Radio Two,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two",
+         "BBC Radio Three,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three",
+         "BBC Radio Four,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm",
+         "BBC Radio 1xtra,http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra",
+         "NPR,https://npr-ice.streamguys1.com/live.mp3",
+         "98.7 The Shark,http://17643.live.streamtheworld.com/WPBBFM.mp3",
+         "Magic Oldies Florida,http://ais-edge07-live365-dal02.cdnstream.com/a46209",
+         "Smooth Jazz Florida,http://server.webnetradio.net:5120/",
+         "Salsa Radio,http://radio.domiplay.net:2002/;",
+         "Radio Central,http://philae.shoutca.st:8459/stream",
+         "J Pop Project Radio - Global Edition,http://bluford.torontocast.com:8085/stream",
+         "Heart FM,http://media-ice.musicradio.com/HeartLondonMP3",
+         "Heart 80s,https://media-ice.musicradio.com/Heart80sMP3",
+         "Heart 90s,https://media-ice.musicradio.com/Heart90sMP3",
+         "Heart Dance,https://icecast.thisisdax.com/HeartDanceMP3",
+         "KEXP,http://kexp-mp3-128.streamguys1.com/kexp128.mp3",
+         "Kool London,http://uk1-pn.webcast-server.net:8698/",
+         "Sensimedia,http://equinox.shoutca.st:9878",
+         "WEFUNK,http://s-00.wefunkradio.com:81/wefunk64.mp3",
+         "Metal Rock,http://listen.djcmedia.com/metalrockradiohigh",
+         "Smooth Country,https://media-ice.musicradio.com/SmoothCountryMP3",
+         "Real Punk Radio,http://s2.nexuscast.com:8080/stream"
+      ]
+   }
+}
