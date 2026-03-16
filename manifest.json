@@ -19,8 +19,8 @@
    "Servers":{
       "Official":[
       	 {
-		"Address": "194.93.2.148",
-		"Port": 35000,
+		"Address": "80.73.8.187",
+		"Port": 28015,
 		"Tags": ""
          }
       ], 
